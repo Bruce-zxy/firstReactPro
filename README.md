@@ -4,6 +4,11 @@
 
 ## 使用方法
 
+
+
+安装项目依赖
+cd firstReactPro && npm install
+
 开发模式，启动本地服务。
 npm run dev
 
